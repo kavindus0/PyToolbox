@@ -18,6 +18,7 @@ downloads/
 eggs/
 .eggs/
 lib/
+.kiro
 lib64/
 parts/
 sdist/
@@ -57,6 +58,7 @@ coverage.xml
 # IDE
 .vscode/
 .idea/
+.kiro/
 *.swp
 *.swo
 *~
